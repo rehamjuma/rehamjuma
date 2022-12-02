@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 👩🏻‍💻 Software Backend Engineer with a bachelor degree in computer engineering, 
-🌱 I love Learn new things, being a team playe, sharing knowledge and experience and seeking new technologies 🔍✨
+🌱 I love Learn new things, being a team player, sharing knowledge and experience and seeking new technologies 🔍✨
 
 ![](https://komarev.com/ghpvc/?username=rehamjuma&color=ff69b4)
 
